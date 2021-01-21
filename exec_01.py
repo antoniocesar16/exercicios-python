@@ -1,5 +1,3 @@
-# Repetiços
-
 rodando = True
 while rodando:
     nota = int(input("Nota entre 0 e 10: "))
